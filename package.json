@@ -1,0 +1,29 @@
+{
+  "name": "full-stackresources-main",
+  "version": "1.0.0",
+  "description": "Projeto de locadora da diciplina de Full-Stack2",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node swagger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeHigino05/Full-StackResources-main.git"
+  },
+  "author": "Guilherme Higino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeHigino05/Full-StackResources-main/issues"
+  },
+  "homepage": "https://github.com/GuilhermeHigino05/Full-StackResources-main#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.24.2",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
+  }
+}

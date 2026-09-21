@@ -1,0 +1,14 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "API para a revisão disciplina de PFS2",
+    "description": "Documentação do conjunto de endpoints criados para revisão de Programação Fullstack 2",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5000/"
+    }
+  ],
+  "paths": {}
+}
